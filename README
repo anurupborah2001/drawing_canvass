@@ -1,0 +1,22 @@
+Instruction
+-----------------------------
+Need to run the batch file and will run in the console
+
+In Order to run the project 
+Please go to the package com.canvas.drawing.main
+and Run the CanvasMain.java file as Java Application Console.
+
+OR 
+
+Simply run the drawcanvas.bat file
+
+Assumptions : 
+---------------------
+Diagonal Line Validation : Validate the LIne whether the user entered Diagonal Line which is not allowed on making Rectangles and Lines
+
+Line and Point Bound Validation : Validate the line and point bound parameter so that it is within the bound of the Canvas
+
+Requirements
+----------------------
+Java 8
+TOMCAT SERVER or PIVOT SERVER
